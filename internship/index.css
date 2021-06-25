@@ -1,0 +1,73 @@
+.margin
+{
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    text-align: right;
+}
+.borderr
+{
+    border-bottom: 2px solid rgba(177, 177, 177, 0.541);
+}
+body
+{
+    margin-top: 100px;
+}
+.nav-item
+{
+    margin-left: 20px;
+}
+.lefticon
+{
+    margin-left: 250px;
+    margin-top: 15px;
+    font-size: 20px;  
+}
+.last
+{
+    display: flex;
+}
+.marginn
+{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.card
+{
+    border: none;
+}
+.margins
+{
+    margin-left: 200px;
+    margin-right: 180px;
+}
+#ro
+{
+    margin-left: 15px;
+}
+.row
+{
+    margin-left: 190px;
+    margin-right: 190px;
+}
+.carousel-caption
+{
+    color: black;
+    text-align: left;
+    margin-bottom: 150px;
+}
+h5,p
+{
+   margin-top: 20px;
+   margin-left: 60px;
+   margin-bottom: 20px;
+}
+.btn-warning
+{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 800;
+}
